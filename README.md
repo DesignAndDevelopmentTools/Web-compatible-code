@@ -12,7 +12,7 @@
 ```
 
 > # Example
-  > with property : transform
+  With property : transform
 ```s
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-moz-transform: translateX(-50%) translateY(-50%);
